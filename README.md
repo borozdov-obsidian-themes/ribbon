@@ -46,10 +46,14 @@ cream on Cambric, bullion gold on Bullion.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Ribbon**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Ember**. Install Borozdov Ember under Settings → Appearance → Themes → Manage, then the
+[Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and choose
+**Ribbon** under Style Settings → Borozdov Ember → Variant. The variant brings this
+theme's palette, type and corners; its own layout, and its embedded font if it has one,
+come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/ribbon/releases/latest)
 into `<vault>/.obsidian/themes/Borozdov Ribbon/`, then choose Borozdov Ribbon under
 Settings → Appearance → Themes.
@@ -65,5 +69,4 @@ MIT — see [LICENSE](LICENSE).
 дверь хранилища. Один гротеск одного начертания несёт любой размер, от подписи до
 заголовка страницы; единственный цвет в обоих ликах — лента поперёк верха каждой
 полосы вкладок: кремовая на Cambric, цвета червонного золота на Bullion. Шрифты не
-встроены. Устанавливается из каталога: Настройки → Оформление → Темы → Настроить →
-Borozdov Ribbon → Установить и применить.
+встроены. В каталоге тема живёт вариантом Borozdov Ember: установите Borozdov Ember и плагин Style Settings, затем выберите Ribbon в Style Settings → Borozdov Ember → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
